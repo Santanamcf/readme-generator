@@ -1,7 +1,7 @@
-# gg
+# README Generator
 
   ## Description
-  gg
+  This project allows the user to generate a readme file with just user input.
   
   
   ## Table of Contents
@@ -14,19 +14,19 @@
   * [email](#email)
   
   ## Installation
-  gg
+  To install the run the folllowing command: npm i
   
   ## Usage
-  gg
+  You use this project by answering the questions the program asks you when you run it.
   ## License
   MIT License
   ## Contributions
-  gg
+  Robertson Rojas and Josh Lee.
   ## Tests
 
-    gg
+    Run the following command: npm test
   
   
   
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at gg. You can find more of my work at gg
+  If you have any questions about the repo, open an issue or contact me directly at santanamcf01@gmail.com. You can find more of my work at Santanamcf
